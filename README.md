@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="eartoneheader.png" alt="EARTONE - A Signal in the Noise" width="100%">
+</p>
+
 # EARTONE
 
 ### A Signal in the Noise
