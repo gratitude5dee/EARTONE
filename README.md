@@ -7,7 +7,7 @@
 ### A Signal in the Noise
 
 > **Content. Music. Media. CULTURE.**
-> 
+> Access Here : eartone.lovable.app
 > Direct-to-creator distribution powered by Thirdweb on Monad.
 
 [![Monad](https://img.shields.io/badge/Monad-Testnet%20%7C%20Mainnet-blueviolet?style=for-the-badge)](https://monad.xyz)
